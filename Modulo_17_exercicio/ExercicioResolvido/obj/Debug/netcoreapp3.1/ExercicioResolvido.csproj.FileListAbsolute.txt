@@ -1,0 +1,13 @@
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.exe
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.deps.json
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.runtimeconfig.json
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.runtimeconfig.dev.json
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.dll
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.pdb
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.csprojAssemblyReference.cache
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.dll
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.pdb
+C:\Users\jackj\Desktop\C#\modulo 17\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.genruntimeconfig.cache

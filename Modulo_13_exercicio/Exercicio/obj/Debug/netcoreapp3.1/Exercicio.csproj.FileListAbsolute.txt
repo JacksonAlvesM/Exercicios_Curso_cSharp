@@ -1,0 +1,13 @@
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\jackj\Desktop\C#\modulo 13\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache

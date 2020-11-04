@@ -1,0 +1,26 @@
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.exe
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.deps.json
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.runtimeconfig.json
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.runtimeconfig.dev.json
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.dll
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.pdb
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.csprojAssemblyReference.cache
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.AssemblyInfoInputs.cache
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.AssemblyInfo.cs
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.csproj.CoreCompileInputs.cache
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.dll
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.pdb
+C:\Users\jackj\source\repos\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.genruntimeconfig.cache
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.exe
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.deps.json
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.runtimeconfig.json
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.runtimeconfig.dev.json
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.dll
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\bin\Debug\netcoreapp3.1\Exercicis4.pdb
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.csprojAssemblyReference.cache
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.AssemblyInfoInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.AssemblyInfo.cs
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.csproj.CoreCompileInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.dll
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.pdb
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicis4\Exercicis4\obj\Debug\netcoreapp3.1\Exercicis4.genruntimeconfig.cache

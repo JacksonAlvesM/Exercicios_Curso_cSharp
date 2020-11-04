@@ -1,0 +1,12 @@
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Modulo03_Exercicio_01.exe
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Modulo03_Exercicio_01.deps.json
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Modulo03_Exercicio_01.runtimeconfig.json
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Modulo03_Exercicio_01.runtimeconfig.dev.json
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Modulo03_Exercicio_01.dll
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\Modulo03_Exercicio_01.pdb
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Modulo03_Exercicio_01.AssemblyInfoInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Modulo03_Exercicio_01.AssemblyInfo.cs
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Modulo03_Exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Modulo03_Exercicio_01.dll
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Modulo03_Exercicio_01.pdb
+C:\Users\jackj\Desktop\C#\modulo 3\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\Modulo03_Exercicio_01.genruntimeconfig.cache

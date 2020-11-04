@@ -1,0 +1,13 @@
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.exe
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.deps.json
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.runtimeconfig.json
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.dll
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.pdb
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.csprojAssemblyReference.cache
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.dll
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.pdb
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.genruntimeconfig.cache

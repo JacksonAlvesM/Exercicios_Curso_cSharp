@@ -1,0 +1,13 @@
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\bin\Debug\netcoreapp3.1\ExercicioProposto02.exe
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\bin\Debug\netcoreapp3.1\ExercicioProposto02.deps.json
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\bin\Debug\netcoreapp3.1\ExercicioProposto02.runtimeconfig.json
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\bin\Debug\netcoreapp3.1\ExercicioProposto02.runtimeconfig.dev.json
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\bin\Debug\netcoreapp3.1\ExercicioProposto02.dll
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\bin\Debug\netcoreapp3.1\ExercicioProposto02.pdb
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\obj\Debug\netcoreapp3.1\ExercicioProposto02.csprojAssemblyReference.cache
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\obj\Debug\netcoreapp3.1\ExercicioProposto02.AssemblyInfoInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\obj\Debug\netcoreapp3.1\ExercicioProposto02.AssemblyInfo.cs
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\obj\Debug\netcoreapp3.1\ExercicioProposto02.csproj.CoreCompileInputs.cache
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\obj\Debug\netcoreapp3.1\ExercicioProposto02.dll
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\obj\Debug\netcoreapp3.1\ExercicioProposto02.pdb
+C:\Users\jackj\Desktop\C#\modulo 10\ExercicioProposto02\ExercicioProposto02\obj\Debug\netcoreapp3.1\ExercicioProposto02.genruntimeconfig.cache
